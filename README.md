@@ -7,14 +7,14 @@
 <a href="https://chaponanwill.netlify.app" target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-- 🔭 Actualmente trabajo en el desarrollo de un proyecto de ecommerce utilizando Next.js y Strapi.  
-- 🌱 Estoy desarrollando un sitio web..  
+- 🔭 Actualmente trabajo en el desarrollo de un proyecto de ecommerce utilizando Next.js y Strapi.  <br>
+- 🌱 Estoy desarrollando un sitio web.  
 - 🤝 Estoy disponible para proyectos relacionados con desarrollo web.  
 - 🌱 Actualmente estoy aprendiendo **Laraver** y explorando integraciones.
-- 📝 Escribo notas y documentos sobre mis aprendizajes en **IA y desarrollo de software**.  
-- 💬 Pregúntame sobre **Next.js, React Native, y Zustand**.  
+- 📝 Escribo notas y documentos sobre mis aprendizajes en IA y desarrollo de software.  
+- 💬 Pregúntame sobre Next.js, React Native, y Zustand.  
 - 📫 Puedes contactarme en chaponanwill@gmail.com.
-- 📄 Conoce más sobre mi experiencia en mi **portafolio**.  
+- 📄 Conoce más sobre mi experiencia en mi portafolio.  
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
