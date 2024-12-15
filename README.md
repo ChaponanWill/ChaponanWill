@@ -3,6 +3,10 @@
 <p align="center">
   <a href="https://github.com/chaponanwill/chaponanwill-portfolio"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software.;Apasionado+por+la+optimización+de+procesos.;Explorador+de+nuevas+tecnologías.;Creador+de+soluciones+con+tecnología+web.;Diseñador+de+interfaces+intuitivas."></a>
 </p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 - 🔭 Actualmente trabajo en el desarrollo de un proyecto de **ecommerce** utilizando Next.js y Strapi.  
 - 🌱 Estoy desarrollando un sitio web..  
 - 🤝 Estoy disponible para proyectos relacionados con desarrollo web.  
