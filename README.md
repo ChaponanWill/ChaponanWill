@@ -8,13 +8,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <li>🔭 Actualmente trabajo en el desarrollo de un proyecto de ecommerce utilizando Next.js y Strapi.</li>
-<li>🌱 Estoy desarrollando un sitio web.</li>
--🤝 Estoy disponible para proyectos relacionados con desarrollo web.   <br>
-- 🌱 Actualmente estoy aprendiendo Laravel y explorando integraciones.  <br>
--📝 Escribo notas y documentos sobre mis aprendizajes en IA y desarrollo de software.   <br>
--💬 Pregúntame sobre Next.js, React Native, y Zustand.   <br>
--📫 Puedes contactarme en chapowilliam09@gmail.com.  <br>
--📄 Conoce más sobre mi experiencia en mi portafolio.   <br>
+<li>🌱 Me encuentro desarrollando un sitio web.</li>
+<li>🤝 Disponible para proyectos relacionados con desarrollo web.</li> 
+<li> 🌱 Actualmente estoy aprendiendo Laravel y explorando integraciones.</li>
+<li>📝 Escribo notas y documentos sobre mis aprendizajes en IA y desarrollo de software.</li>
+<li>💬 Pregúntame sobre Next.js, React Native, y Zustand.</li>
+<li>📫 Puedes contactarme en chapowilliam09@gmail.com.</li>
+<li>📄 Conoce más sobre mi experiencia en mi portafolio.</li>
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
