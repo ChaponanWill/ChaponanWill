@@ -8,9 +8,8 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <li>🔭 Actualmente trabajo en el desarrollo de un proyecto de ecommerce utilizando Next.js y Strapi.</li>
-<li>🌱 Me encuentro desarrollando un sitio web.</li>
+<li>🌱 Me interesa que mis proyectos tengan buenas prácticas de programación.</li>
 <li>🤝 Disponible para proyectos relacionados con desarrollo web.</li> 
-<li> 🌱 Actualmente estoy aprendiendo Laravel y explorando integraciones.</li>
 <li>📝 Escribo notas y documentos sobre mis aprendizajes en IA y desarrollo de software.</li>
 <li>💬 Pregúntame sobre Next.js, React Native, y Zustand.</li>
 <li>📫 Puedes contactarme en chapowilliam09@gmail.com.</li>
